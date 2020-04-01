@@ -1,3 +1,9 @@
+# Unlock Dad Joke
+
+## Description
+
+Learning React with "The Dot Media". They are doing a JavaScript Marathon andn I decided to join the race.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
